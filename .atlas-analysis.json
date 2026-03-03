@@ -1,0 +1,190 @@
+{
+  "projectType": "saas",
+  "projectName": "BLACKICE Portal",
+  "projectDescription": "A comprehensive web-based productivity platform with AI tools, collaboration features, and security training academy",
+  "theme": "aspen",
+  "primaryColor": "#3b82f6",
+  "lightColor": "#58a6ff",
+  "darkColor": "#1a1a1e",
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "Documentation",
+        "groups": [
+          {
+            "group": "Get Started",
+            "pages": [
+              "introduction",
+              "quickstart",
+              "features-overview"
+            ]
+          },
+          {
+            "group": "Using BLACKICE",
+            "pages": [
+              "portal-navigation",
+              "tool-categories",
+              "keyboard-shortcuts"
+            ]
+          },
+          {
+            "group": "Tools & Features",
+            "pages": [
+              "tools/ai-tools",
+              "tools/productivity-apps",
+              "tools/collaboration",
+              "tools/developer-utilities",
+              "tools/media-tools"
+            ]
+          },
+          {
+            "group": "Guides",
+            "pages": [
+              "guides/best-practices",
+              "guides/workflow-examples",
+              "guides/tips-and-tricks"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Tool Reference",
+        "groups": [
+          {
+            "group": "AI Tools",
+            "pages": [
+              "reference/ai/bicochat",
+              "reference/ai/local-ai",
+              "reference/ai/image-generation",
+              "reference/ai/coding-assistant",
+              "reference/ai/pomodoro"
+            ]
+          },
+          {
+            "group": "Productivity",
+            "pages": [
+              "reference/productivity/focus-plan",
+              "reference/productivity/todo-lists",
+              "reference/productivity/time-tracking",
+              "reference/productivity/bill-tracker"
+            ]
+          },
+          {
+            "group": "Collaboration",
+            "pages": [
+              "reference/collaboration/collab-docs",
+              "reference/collaboration/whiteboard",
+              "reference/collaboration/video-call",
+              "reference/collaboration/file-share",
+              "reference/collaboration/p2p-chat"
+            ]
+          },
+          {
+            "group": "Developer Tools",
+            "pages": [
+              "reference/dev/html-viewer",
+              "reference/dev/web-compiler",
+              "reference/dev/repo-compiler",
+              "reference/dev/instant-search"
+            ]
+          },
+          {
+            "group": "Media & Creative",
+            "pages": [
+              "reference/media/audio-player",
+              "reference/media/video-player",
+              "reference/media/image-compressor",
+              "reference/media/text-to-speech",
+              "reference/media/slides-studio"
+            ]
+          },
+          {
+            "group": "Utilities",
+            "pages": [
+              "reference/utilities/qr-code-generator",
+              "reference/utilities/link-shortener",
+              "reference/utilities/weather",
+              "reference/utilities/mindmap",
+              "reference/utilities/notes"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Academy",
+        "groups": [
+          {
+            "group": "Learning Paths",
+            "pages": [
+              "academy/getting-started",
+              "academy/curriculum-tracks",
+              "academy/missions-overview"
+            ]
+          },
+          {
+            "group": "Labs & Missions",
+            "pages": [
+              "academy/ctf-labs",
+              "academy/guided-challenges",
+              "academy/writeups"
+            ]
+          },
+          {
+            "group": "Defense",
+            "pages": [
+              "academy/defender-view",
+              "academy/telemetry",
+              "academy/mitigation-practice"
+            ]
+          },
+          {
+            "group": "Resources",
+            "pages": [
+              "academy/ethics-legal",
+              "academy/roadmap",
+              "academy/contributing"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "keyFeatures": [
+    "60+ integrated web tools and applications",
+    "AI-powered productivity and automation",
+    "Real-time collaboration tools",
+    "Security training academy with CTF labs",
+    "Browser-based, no installation required",
+    "Dark mode optimized interface",
+    "Minimal and modern design",
+    "Developer utilities and code tools"
+  ],
+  "publicApiSurface": [
+    "BICOChat AI - Conversational AI assistant",
+    "Focus Plan - Smart task planner with Kanban",
+    "Collaborative Docs - Real-time document editor",
+    "Whiteboard - Collaborative drawing canvas",
+    "Video Call - WebRTC-based video conferencing",
+    "AI Coding Assistant - Code generation and help",
+    "Image Generation - AI-powered image creation",
+    "HTML Viewer - Live HTML/CSS/JS preview",
+    "Web Compiler - Online code compilation",
+    "Repo Compiler - GitHub repository compiler",
+    "QR Code Generator - Create custom QR codes",
+    "Link Shortener - URL shortening service",
+    "Mind Map - Interactive mind mapping tool",
+    "Notes - Rich text note-taking",
+    "Todo Manager - Advanced task management",
+    "Time Flow - Time tracking and analytics",
+    "Slides Studio - Presentation creator",
+    "Audio/Video Players - Media playback tools",
+    "Image Compressor - Image optimization",
+    "Text to Speech - TTS conversion",
+    "Weather - Weather information lookup",
+    "Bill Tracker - Expense and bill tracking",
+    "Eye Track - Screen health monitoring",
+    "Knowledge Graph - Visual knowledge mapping",
+    "File Share - P2P file sharing",
+    "Instant Search - Quick search utility"
+  ]
+}
